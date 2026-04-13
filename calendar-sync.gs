@@ -10,7 +10,7 @@
  */
 
 // Configuration - Update these with your actual calendar IDs
-const PERSONAL_CALENDAR_ID = 'sheagcraig@gmail.com'; // Your personal calendar ID
+const PERSONAL_CALENDAR_ID = 'probably_your_email_address@gmail.com'; // Your personal calendar ID
 const WORK_CALENDAR_ID = 'primary'; // Use 'primary' for main work calendar or specific calendar ID
 const SYNC_DAYS_AHEAD = 30; // How many days ahead to sync
 const SYNC_DAYS_BEHIND = 7; // How many days behind to sync (for updates)
