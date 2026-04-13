@@ -35,6 +35,10 @@ You need to find the Calendar IDs for both your personal and work calendars:
 4. Scroll down to "Calendar ID" and copy it
 5. It will look like: `your-email@gmail.com` or `abc123def456@group.calendar.google.com`
 
+#### Share Your Personal Calendar With Your Work Calendar:
+1. Use the "Settings and sharing" menu from above to add your work account with the "See all event details" permission.
+2. Accept the calendar invitation from the work account's Gmail.
+
 #### Finding Your Work Calendar ID:
 - If using your primary work calendar: use `'primary'`
 - For a specific work calendar: follow the same steps as above
